@@ -50,8 +50,4 @@ This project aims to:
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-git clone https://github.com/<your-username>/android-spyware-educational.git
-cd android-spyware-educational/Game
